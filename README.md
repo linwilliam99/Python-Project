@@ -1,5 +1,3 @@
 # Python-Project
-Please Download Module better profanity for this code to run .                                             
-pip3 install better_profanity
- or
-pip install better_profanity
+Please Download the Module --> pip3 install better_profanity .             
+Then, please access it through the library and then replace the profanity_wordlitst.txt with the one provided in the repository
